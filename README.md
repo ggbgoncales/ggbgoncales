@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme Gonçales! 👋
 
-<!--
-**ggbgoncales/ggbgoncales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Estudante-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Foco-Cybersecurity%20%26%20Dev-red?style=flat-square">
+</p>
 
-Here are some ideas to get you started:
+### 🎓 Formação e Objetivos
+- 🏫 Cursando **Ciência da Computação** na **UniMAX Indaiatuba** (atualmente no 3º semestre).
+- 🎓 Previsão de formatura: **Dezembro de 2028**.
+- 🎯 Buscando me especializar na área de **Cibersegurança** e Desenvolvimento de Software.
+- 🐍 No momento, aprimorando conhecimentos em **Python** através do Curso em Vídeo (Prof. Guanabara).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
+</div>
+
+---
+
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-barbosa-76061a246)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ggbgoncales&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+</div>
